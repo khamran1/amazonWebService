@@ -1,0 +1,19 @@
+{
+  "name": "awsserviceuse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.13.4",
+    "file-system": "^2.2.1",
+    "node": "0.0.0",
+    "path": "^0.12.7"
+  }
+}
